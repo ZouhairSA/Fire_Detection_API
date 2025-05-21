@@ -1,7 +1,6 @@
 fastapi
 uvicorn
 torch
-opencv-python
 numpy
-pillow
-yolov5
+opencv-python-headless
+Pillow
